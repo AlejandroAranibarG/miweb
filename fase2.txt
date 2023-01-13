@@ -1,0 +1,8 @@
+fase 2.o
+
+fase 2.1
+fase 2.1.1
+
+fase 2.2
+fase 2.2.1
+fase 2.2.2
